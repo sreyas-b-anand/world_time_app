@@ -1,0 +1,27 @@
+# Flutter/Dart related
+.dart_tool/
+.packages
+build/
+generated_plugin_registrant.dart
+
+# IDE & Editor specific
+.idea/
+.vscode/
+*.iml
+
+# Platform-specific (Rebuildable)
+android/
+ios/
+linux/
+macos/
+windows/
+web/
+
+# Generated binaries
+*.lock
+pubspec.lock
+
+# Miscellaneous
+*.log
+*.flutter-plugins
+*.flutter-plugins-dependencies
