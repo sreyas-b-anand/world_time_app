@@ -49,6 +49,7 @@ world_time_app/
 │   ├── pages/
 │   │   ├── home.dart
 │   │   ├── choose_location.dart
+|   |   ├── loading.dart
 │   ├── services/
 │   │   ├── world_time.dart
 │   ├── components/
